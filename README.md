@@ -20,7 +20,7 @@ This project is a functional calculator that performs the four basic mathematica
 
 ### 📸 Screenshot
 
-`![Calculator Screenshot](path/to/your/image)`
+![Screenshot da Calculadora](image.png)
 
 ---
 
