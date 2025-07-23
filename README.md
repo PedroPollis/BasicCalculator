@@ -20,13 +20,7 @@ This project is a functional calculator that performs the four basic mathematica
 
 ### 📸 Screenshot
 
-(Here you will place an image of your calculator in action!)
-
-**How to add the image:**
-1. Take a screenshot of your calculator.
-2. Add the image file to your project's folder.
-3. Use the following line in the README to display it:
-    `![Calculator Screenshot](path/to/your/)`
+`![Calculator Screenshot](path/to/your/Calculator Image)`
 
 ---
 
